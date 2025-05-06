@@ -29,3 +29,4 @@ int yas = Convert.ToInt32(Console.ReadLine()); // 23
 // Convert.ToInt32("234"); --> 234
 
 Console.WriteLine("O halde adınız -> " + ad + " ve yaşınız -> " + yas);
+Console.WriteLine("Bir şeyler değiştirdim.");
